@@ -3,3 +3,6 @@
  */
 const mqList = window.matchMedia("(max-width: 900px)");
 console.log(mqList);
+
+const mqList2 = window.matchMedia("(max-width: 600px)");
+console.log(mqList2);
